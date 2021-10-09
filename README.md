@@ -15,7 +15,7 @@ In Node.js:
 
 ```js
 // Load
-const JinMdLoader = require('jin-md-loader');
+// const JinMdLoader = require('jin-md-loader');
 ```
 
 ### webpack.config.js
@@ -27,7 +27,7 @@ const JinMdLoader = require('jin-md-loader');
              {
                 test: /\.md$/i,
                 use: [
-                   "JinMdLoader"
+                   "jin-md-loader"
                 ]
               }   
          ],  
