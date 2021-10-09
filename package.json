@@ -1,6 +1,6 @@
 {
   "name": "jin-md-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "md转html",
   "main": "jin-loaders/jin-md-loader.js",
   "scripts": {
